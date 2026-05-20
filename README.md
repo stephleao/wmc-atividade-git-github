@@ -24,3 +24,20 @@ Referência em ética digital, cibersegurança e combate ao racismo algorítmico
 Sua trajetória mostra que computação vai além do código: **é ferramenta social para construir uma sociedade mais justa e inclusiva**.
 
 ---
+
+## O que aprendi sobre Git e GitHub
+
+- `git init`:
+Cria um novo repositório Git na pasta atual, iniciando o controle de versão.
+- `git add [arquivo]`:
+Adiciona arquivos ao staging area, preparando-os para serem incluídos no próximo commit.
+- `git commit -m "mensagem"`:
+Registra as alterações adicionadas com uma mensagem descritiva, criando um ponto de histórico no repositório.
+- `git push`:
+Envia os commits locais para o repositório remoto (como o GitHub), atualizando-o com suas mudanças.
+- `git checkout -b [nome-da-branch]`:
+Cria e muda para uma nova branch, permitindo desenvolver funcionalidades ou correções sem afetar a branch principal.
+
+```
+Git é vida. <3
+```
