@@ -6,7 +6,7 @@ Repositório da atividade individual relacionada a Git/Github (mód. 4) do Bootc
 ## Nina da Hora
 _A homenageada da minha squad_
 
-![Nina da Hora](https://nosmulheresdaperiferia.com.br/wp-content/uploads/2021/03/nina-da-hora.png)
+![Nina da Hora](img/nina-da-hora.png)
 
 [Ana Carolina da Hora](https://pt.wikipedia.org/wiki/Nina_da_Hora) é uma das principais vozes da tecnologia no Brasil. Nascida em Duque de Caxias (RJ), formou-se em Ciência da Computação pela PUC-Rio e fez mestrado na Unicamp. Fundadora do Instituto da Hora, atua como colunista em veículos como MIT Technology Review Brasil e Gizmodo, destacando o impacto da tecnologia em populações periféricas e negras.
 
